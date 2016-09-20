@@ -85,8 +85,8 @@ section {
 }
 .city img.logo {
   position: absolute;
-  right: 0;
   top: 0;
+  left: 0;
   width: 50%;
   max-width: 450px;
   min-width: 250px;
@@ -235,7 +235,7 @@ section {
 }
 
 .pixgrid img {
-  max-width: 95px;
+  max-width: 90px;
   display: block;
   -moz-border-radius: 15px;
   -webkit-border-radius: 15px;
