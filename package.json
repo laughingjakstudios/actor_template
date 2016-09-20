@@ -1,0 +1,12 @@
+{
+  "name": "actor_template",
+  "version": "1.0.0",
+  "description": "Template build",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Joe Dallacqua",
+  "license": "ISC"
+}
